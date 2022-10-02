@@ -1,4 +1,4 @@
-# 本能方法安装以及测试方法说明
+# 本能方法安装方法说明
 ## 1.苹果包安装方法
 1. 提供苹果账号
 2. 在苹果app store 下载并安装 [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664?platform=iphone) App.
@@ -10,4 +10,5 @@
 
 ![apk二维码下载地址](https://instinctmethod-public.oss-cn-hangzhou.aliyuncs.com/release/app_download.jpg)
 
+2. 点击识别到的url(默认会在浏览器打开).
 2. 下载apk包并安装.
