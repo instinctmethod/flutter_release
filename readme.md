@@ -8,7 +8,7 @@
 ## 二.安卓内测包安装方法
 1. 使用手机相机扫描二维码。
 
-![apk二维码下载地址](https://instinctmethod-public.oss-cn-hangzhou.aliyuncs.com/release/app_download.jpg)
+![APK二维码下载地址](https://instinctmethod-public.oss-cn-hangzhou.aliyuncs.com/release/app_download.jpg)
 
-2. 点击识别到的Url(默认会用浏览器打开)。
-2. 下载Apk包并安装。
+2. 点击相机识别到的URL(默认会用浏览器打开)。
+2. 下载APK包并安装。
