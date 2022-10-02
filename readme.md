@@ -10,5 +10,5 @@
 
 ![APK二维码下载地址](https://instinctmethod-public.oss-cn-hangzhou.aliyuncs.com/release/app_download.jpg)
 
-2. 点击相机识别到的 URL (默认会用浏览器打开)。
+2. 点击相机识别到的 URL（默认会用浏览器打开）。
 3. 下载 APK 包并安装。
