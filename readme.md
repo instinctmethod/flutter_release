@@ -1,7 +1,7 @@
 # 本能方法APP内测包安装方法说明
 ## 一.苹果内测包安装方法
 1. 内测者提供苹果账号给[李小斌](mailto:antinelee@163.com)。
-2. 用苹果手机 Apple Store下载并安装 [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664?platform=iphone) App。
+2. 用苹果手机 Apple Store 下载并安装 [TestFlight](https://apps.apple.com/cn/app/testflight/id899247664?platform=iphone) App。
 3. 在苹果手机上打开邀请内测的电子邮件。
 4. 通过电子邮件邀请进行安装时，点击“在 TestFlight 中查看”或“开始测试”，然后针对你想要测试的 App 点击“安装”或“更新”。
 
